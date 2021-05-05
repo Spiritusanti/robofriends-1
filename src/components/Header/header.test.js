@@ -1,6 +1,6 @@
 import { shallow } from 'enzyme';
 import React from 'react';
-import Header from './Header';
+import Header from './header';
 import { createSerializer } from 'enzyme-to-json'; 
 import toJson from 'enzyme-to-json';
 

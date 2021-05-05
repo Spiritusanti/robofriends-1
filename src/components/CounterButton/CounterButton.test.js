@@ -1,6 +1,6 @@
 import { shallow } from 'enzyme';
 import React from 'react';
-import CounterButton from './CounterButton';
+import CounterButton from './counterButton';
 import { createSerializer } from 'enzyme-to-json'; 
 import renderer from 'react-test-renderer';
 
